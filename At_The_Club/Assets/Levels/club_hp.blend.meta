@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 451f23bc4f5542d4fa136c7ad6e72284
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bar
+    100002: Bar_001
+    100004: Bar_002
+    100006: Bathrooms
+    100008: Bathrooms_001
+    100010: //RootNode
+    100012: Dancefloor
+    100014: Dancefloor_001
+    100016: Dancefloor_002
+    100018: Dancefloor_003
+    100020: Dancefloor_004
+    100022: Gallery
+    100024: Gallery_001
+    100026: Hall
+    100028: Hall_001
+    100030: Kitchen
+    100032: Kitchen_001
+    100034: VIP_Entrance
+    100036: VIP_Entrance_001
+    100038: Plane
+    100040: Dancefloor_Walls
+    100042: Hall_000
+    400000: Bar
+    400002: Bar_001
+    400004: Bar_002
+    400006: Bathrooms
+    400008: Bathrooms_001
+    400010: //RootNode
+    400012: Dancefloor
+    400014: Dancefloor_001
+    400016: Dancefloor_002
+    400018: Dancefloor_003
+    400020: Dancefloor_004
+    400022: Gallery
+    400024: Gallery_001
+    400026: Hall
+    400028: Hall_001
+    400030: Kitchen
+    400032: Kitchen_001
+    400034: VIP_Entrance
+    400036: VIP_Entrance_001
+    400038: Plane
+    400040: Dancefloor_Walls
+    400042: Hall_000
+    2100000: Gallery_Walls
+    2100002: VIP_Walls
+    2100004: Kitchen_Walls
+    2100006: Dancefloor_AreaLights
+    2100008: Dancefloor_Walls
+    2100010: Dancefloor_Stairs
+    2100012: Dancefloor_Floor
+    2100014: Bathroom_Walls
+    2100016: Hall_Wall
+    2100018: Bar_Floor
+    2100020: Bar_Walls
+    2100022: VIP_Floor
+    2100024: Kitchen_Floor
+    2100026: Bathroom_Floor
+    2100028: Bar
+    2100030: Hall_Floor
+    2100032: Gallery_Floor
+    2100034: Dancefloor_DJDesk
+    2100036: unnamed
+    2300000: Bar
+    2300002: Bar_001
+    2300004: Bar_002
+    2300006: Bathrooms
+    2300008: Bathrooms_001
+    2300010: Dancefloor
+    2300012: Dancefloor_001
+    2300014: Dancefloor_002
+    2300016: Dancefloor_003
+    2300018: Dancefloor_004
+    2300020: Gallery
+    2300022: Gallery_001
+    2300024: Hall
+    2300026: Hall_001
+    2300028: Kitchen
+    2300030: Kitchen_001
+    2300032: VIP_Entrance
+    2300034: VIP_Entrance_001
+    2300036: Plane
+    2300038: Dancefloor_Walls
+    2300040: Hall_000
+    3300000: Bar
+    3300002: Bar_001
+    3300004: Bar_002
+    3300006: Bathrooms
+    3300008: Bathrooms_001
+    3300010: Dancefloor
+    3300012: Dancefloor_001
+    3300014: Dancefloor_002
+    3300016: Dancefloor_003
+    3300018: Dancefloor_004
+    3300020: Gallery
+    3300022: Gallery_001
+    3300024: Hall
+    3300026: Hall_001
+    3300028: Kitchen
+    3300030: Kitchen_001
+    3300032: VIP_Entrance
+    3300034: VIP_Entrance_001
+    3300036: Plane
+    3300038: Dancefloor_Walls
+    3300040: Hall_000
+    4300000: Gallery_001
+    4300002: VIP_Entrance_001
+    4300004: Kitchen_001
+    4300006: Dancefloor_004
+    4300008: Dancefloor_003
+    4300010: Dancefloor_002
+    4300012: Dancefloor_001
+    4300014: Bathrooms_001
+    4300016: Hall_001
+    4300018: Bar_002
+    4300020: Bar_001
+    4300022: VIP_Entrance
+    4300024: Kitchen
+    4300026: Bathrooms
+    4300028: Bar
+    4300030: Hall
+    4300032: Gallery
+    4300034: Dancefloor
+    4300036: Plane
+    4300038: Dancefloor_Walls
+    4300040: Hall_000
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
