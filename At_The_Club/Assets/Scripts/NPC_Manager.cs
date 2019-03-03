@@ -98,7 +98,7 @@ public class NPC_Manager : MonoBehaviour
             turnTarget = null;
             navMeshAgent.SetDestination(walkTarget.transform.position);
             animator.SetBool("walk", true);
-            audioSource.Play();
+            //audioSource.Play();
             if (navMeshAgent.remainingDistance <= navMeshAgent.stoppingDistance)
             {
                 animator.SetBool("walk", false);
