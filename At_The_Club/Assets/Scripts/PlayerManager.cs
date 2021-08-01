@@ -10,6 +10,9 @@ public class PlayerManager : MonoBehaviour
     public GameObject playerController;
     FirstPersonController playerMovement;
 
+    public WriteTextFile dialogue;
+    public WriteTextFile focus;
+
     GameObject objectInFocus;
     GUIStyle boxStyle;
     GUIStyle buttonStyle;
@@ -61,6 +64,7 @@ public class PlayerManager : MonoBehaviour
        {
             GameObject objectInFocus = rHit.collider.gameObject; //Referenz auf Objekt im Fokus
             String sort = rHit.collider.tag;
+            focus.Write("" + Time.fixedDeltaTime + " "+objectInFocus.name);
 
             switch (sort)
             {
@@ -114,6 +118,7 @@ public class PlayerManager : MonoBehaviour
                         {
                             if (GUILayout.Button(data.comments[i], buttonStyle)) //When pressed, set the selected option and call Next()
                             {
+                                dialogue.Write("Player: "+data.comments[i]);
                                 data.commentIndex = i;
                                 VD.Next();
                             }
@@ -127,6 +132,7 @@ public class PlayerManager : MonoBehaviour
                         GUILayout.Box(objectInFocus.name, boxStyle);// Überschrift
                         if (GUILayout.Button(data.comments[data.commentIndex], buttonStyle))
                         {
+                            dialogue.Write("Avatar: " + data.comments[data.commentIndex]);
                             VD.Next();
                         }
                     }

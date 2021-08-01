@@ -1,0 +1,290 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: a
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Entschuldigen Sie bitte...
+---------------------------------
+#NODEID#
+1
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Ganz meinerseits
+---------------------------------
+#NODEID#
+3
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Richtig. Ich freue mich ihre Bekanntschaft zu machen.
+---------------------------------
+#NODEID#
+5
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Ja?
+---------------------------------
+#NODEID#
+6
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Sind Sie eventuell Herr Maier?
+---------------------------------
+#NODEID#
+7
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Ja das bin ich. Sind Sie Herr Müller?
+---------------------------------
+#NODEID#
+8
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Genau der!
+#COMMENT#
+Exakt
+#COMMENT#
+Richtig
+---------------------------------
+#NODEID#
+9
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Wir haben einen Geschäftstermin.
+---------------------------------
+#NODEID#
+11
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Wie geht es Ihnen?
+#COMMENT#
+Lassen Sie uns gleich zum Geschäftlichen kommen.
+---------------------------------
+#NODEID#
+12
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Danke, gut. Und selbst?
+---------------------------------
+#NODEID#
+14
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Sehr gut, danke.
+#COMMENT#
+Nun ja, kann nicht klagen
+#COMMENT#
+Leider nicht so gut
+---------------------------------
+#NODEID#
+16
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Freut mich zu hören
+---------------------------------
+#NODEID#
+18
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Dann sollten wir die Besprechung verschieben.
+---------------------------------
+#NODEID#
+20
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Einverstanden. Sind unsere Konditionen für Sie akzeptabel?
+---------------------------------
+#NODEID#
+21
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Ja alles bestens!
+#COMMENT#
+Wir müssen uns noch einmal über unsere Rendite unterhalten 
+---------------------------------
+#NODEID#
+22
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Sehr schön, dann können wir ja zum Vertragsabschluss kommen
+---------------------------------
+#NODEID#
+25
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Inwiefern?
+---------------------------------
+#NODEID#
+26
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Wollen wir zum Geschäftlichen kommen?
+---------------------------------
+#NODEID#
+28
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Ja das wäre mir Lieber
+#COMMENT#
+Ist schon in Ordnung
+---------------------------------
+#NODEID#
+30
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Gut. Auf Wiedersehen
+---------------------------------
+#NODEID#
+31
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Ja. Schicken Sie uns einfach den Vertrag zu.
+---------------------------------
+#NODEID#
+32
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Ihre Vertragsbedingungen sind eine Beleidigung
+#COMMENT#
+Wir hätten gern eine höhere Beteiligung am Umsatz
+---------------------------------
+#NODEID#
+34
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Und Ihre Gegenleistung?
+---------------------------------
+#NODEID#
+35
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Gegenleistung? Vergessen Sie's!
+#COMMENT#
+Wir könnten die Produktqualität verbessern.
+---------------------------------
+#NODEID#
+37
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Einverstanden. Was halten Sie von 5 Prozent?
+---------------------------------
+#NODEID#
+38
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+5 Prozent? Wir fordern 10!
+#COMMENT#
+Einverstanden!
+---------------------------------
+#END#

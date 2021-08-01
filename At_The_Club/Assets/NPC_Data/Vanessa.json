@@ -1,0 +1,17 @@
+{
+	"name" : "Vanessa",
+	"profession": "Student of International Relations",	
+    "favoriteColor": "black",
+    "PlaceOfBirth" : "Chiago",
+	/*
+    age : 23,
+    mood : 0.5f,
+
+    likesPlayer : 0.5f,
+     wantsToDrink : 0.5f,
+    wantsToPee : 0.5f,
+    wantsToDance : 0.5f,
+   wantsToTalk : 0.5f
+   */
+
+}

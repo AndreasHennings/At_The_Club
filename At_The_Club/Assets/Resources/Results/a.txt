@@ -1,0 +1,32 @@
+Player: Entschuldigen Sie bitte...
+Avatar: Ja?
+Player: Sind Sie eventuell Herr Maier?
+Avatar: Ja das bin ich. Sind Sie Herr Müller?
+Player: Exakt
+Player: Wir haben einen Geschäftstermin.
+Avatar: Richtig. Ich freue mich ihre Bekanntschaft zu machen.
+Player: Ganz meinerseits
+Player: Lassen Sie uns gleich zum Geschäftlichen kommen.
+Avatar: Einverstanden. Sind unsere Konditionen für Sie akzeptabel?
+Player: Wir müssen uns noch einmal über unsere Rendite unterhalten 
+Avatar: Inwiefern?
+Player: Wir hätten gern eine höhere Beteiligung am Umsatz
+Avatar: Und Ihre Gegenleistung?
+Player: Gegenleistung? Vergessen Sie's!
+Avatar: Gut. Auf Wiedersehen
+Avatar: Gut. Auf Wiedersehen
+Player: Entschuldigen Sie bitte...
+Avatar: Ja?
+Player: Sind Sie eventuell Herr Maier?
+Player: Entschuldigen Sie bitte...
+Player: Entschuldigen Sie bitte...
+Avatar: Ja?
+Player: Sind Sie eventuell Herr Maier?
+Avatar: Ja das bin ich. Sind Sie Herr Müller?
+Player: Richtig
+Player: Wir haben einen Geschäftstermin.
+Avatar: Richtig. Ich freue mich ihre Bekanntschaft zu machen.
+Player: Ganz meinerseits
+Player: Wie geht es Ihnen?
+Avatar: Danke, gut. Und selbst?
+Player: Leider nicht so gut
