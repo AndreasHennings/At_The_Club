@@ -15,5 +15,7 @@ The player can stop the interaction any time by just going away. The conversatio
 
 Interaction with the environment includes pushing objects aside, taking objects, opening and closing doors, turning a lightswitch on and off.
 
+Get the Unity project from [Github](https://github.com/AndreasHennings/At_The_Club)
+
 A build for windows can be found [here](https://drive.google.com/drive/folders/1MLsoELbRsWHDdEtT71NWefHoQWL33aQY?usp=sharing)
 
