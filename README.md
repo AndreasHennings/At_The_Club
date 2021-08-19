@@ -7,8 +7,13 @@ A dialogue appears and the player can choose from different options. The avatar 
 
 ![image](/Dialogue.PNG)
 
-The dialogue can be set up with a simple node system. It is also possible to use these nodes to let the avatar perform an action (like changing facial expressions, focussing on objects or turning away) to respond to the player's interaction.
+The dialogue can be set up with a simple node system. It is also possible to use these nodes to let the avatar perform an action (like changing facial expressions, focussing on / walking to a selected object etc) to respond to the player's interaction.
 
 ![image](/nodes.PNG)
 
 The player can stop the interaction any time by just going away. The conversation will resume when the player moves close to the avatar again.
+
+Interaction with the environment includes pushing objects aside, taking objects, opening and closing doors, turning a lightswitch on and off.
+
+A build for windows can be found [here](https://drive.google.com/drive/folders/1MLsoELbRsWHDdEtT71NWefHoQWL33aQY?usp=sharing)
+
